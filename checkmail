@@ -43,7 +43,7 @@ foreach ($emails_jarr as $item) {
 
     <?php
 
-    $allowed_email = array('nyambayar2014@gmail.com', 'ptulgaa@num.edu.mn');
+    $allowed_email = array('togootogoo928@gmail.com', 'ptulgaa@num.edu.mn');
 
     foreach ($emails as $email) {
         if (in_array($email, $allowed_email)) {
